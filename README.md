@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nithinsg12/leetcode_solve/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Nithinsg12/leetcode_solve/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Nithinsg12/leetcode_solve/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/Nithinsg12/leetcode_solve/tree/master/0812-largest-triangle-area) |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Nithinsg12/leetcode_solve/tree/master/0812-largest-triangle-area) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Nithinsg12/leetcode_solve/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
