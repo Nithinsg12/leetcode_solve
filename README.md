@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nithinsg12/leetcode_solve/tree/master/0258-add-digits) |
 | [0812-largest-triangle-area](https://github.com/Nithinsg12/leetcode_solve/tree/master/0812-largest-triangle-area) |
 ## Geometry
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nithinsg12/leetcode_solve/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nithinsg12/leetcode_solve/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nithinsg12/leetcode_solve/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
