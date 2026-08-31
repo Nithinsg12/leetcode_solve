@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nithinsg12/leetcode_solve/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithinsg12/leetcode_solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Nithinsg12/leetcode_solve/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Nithinsg12/leetcode_solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nithinsg12/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nithinsg12/leetcode_solve/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/Nithinsg12/leetcode_solve/tree/master/0812-largest-triangle-area) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nithinsg12/leetcode_solve/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nithinsg12/leetcode_solve/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithinsg12/leetcode_solve/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Nithinsg12/leetcode_solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nithinsg12/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nithinsg12/leetcode_solve/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Nithinsg12/leetcode_solve/tree/master/0875-koko-eating-bananas) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nithinsg12/leetcode_solve/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Nithinsg12/leetcode_solve/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Nithinsg12/leetcode_solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nithinsg12/leetcode_solve/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -108,8 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nithinsg12/leetcode_solve/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Nithinsg12/leetcode_solve/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Nithinsg12/leetcode_solve/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Nithinsg12/leetcode_solve/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
