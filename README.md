@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nithinsg12/leetcode_solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nithinsg12/leetcode_solve/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nithinsg12/leetcode_solve/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/Nithinsg12/leetcode_solve/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithinsg12/leetcode_solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nithinsg12/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nithinsg12/leetcode_solve/tree/master/0704-binary-search) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nithinsg12/leetcode_solve/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Nithinsg12/leetcode_solve/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nithinsg12/leetcode_solve/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nithinsg12/leetcode_solve/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Nithinsg12/leetcode_solve/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
